@@ -1,1 +1,7 @@
+### Solutions of Systems of Nonlinear Equations
 
+Here are Matlab scripts where I apply the following methods to solve a system of nonlinear equations.
+- [Nonlinear Jacobi Iteration](https://github.com/baileyed/applied-numerical-methods/blob/main/Solution%20of%20Systems%20of%20Nonlinear%20Equations/bailey_pset5_problem2_a.m) ([Ouput](https://github.com/baileyed/applied-numerical-methods/blob/main/Solution%20of%20Systems%20of%20Nonlinear%20Equations/bailey_pset5_problem2_a.txt))
+- [Nonlinear Gauss-Seidel Iteration](https://github.com/baileyed/applied-numerical-methods/blob/main/Solution%20of%20Systems%20of%20Nonlinear%20Equations/bailey_pset5_problem2_b.m) ([Ouput](https://github.com/baileyed/applied-numerical-methods/blob/main/Solution%20of%20Systems%20of%20Nonlinear%20Equations/bailey_pset5_problem2_b.txt))
+- [Generalized Newton’s Method](https://github.com/baileyed/applied-numerical-methods/blob/main/Solution%20of%20Systems%20of%20Nonlinear%20Equations/bailey_pset6_problem1_a_test.m) ([Ouput](https://github.com/baileyed/applied-numerical-methods/blob/main/Solution%20of%20Systems%20of%20Nonlinear%20Equations/bailey_pset6_problem1_a_test.txt))
+- [Conjugate Gradient (CG) Method](https://github.com/baileyed/applied-numerical-methods/blob/main/Solution%20of%20Systems%20of%20Nonlinear%20Equations/bailey_pset6_problem3.m) ([Ouput](https://github.com/baileyed/applied-numerical-methods/blob/main/Solution%20of%20Systems%20of%20Nonlinear%20Equations/bailey_pset6_problem3.txt))
