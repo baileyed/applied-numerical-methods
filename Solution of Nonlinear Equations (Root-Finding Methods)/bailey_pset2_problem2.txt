@@ -1,0 +1,20 @@
+
+ OUTPUT FROM bailey_pset2_problem2.m 
+
+ Solving a nonlinear equation using Muller’s Method 
+ with initial input T = 200.000000 and p = 2000.000000 
+
+ with initial guesses v_2 =  0.038205, v_1 =  0.018205 and v_0=  0.008205 
+
+ with initial function vaules fv_2 = -2037.454288, fv_1 = -1146.003885 and fv_0= 587.734383 
+
+ Iteration                     x                        f(x)
+------------------------------------------------------------------
+     1                      0.011087                1710.136070
+     2                      0.007347               -3808.994293
+     3                      0.008066                 147.738747
+     4                      0.008033                  34.498090
+     5                      0.008024                   0.253478
+------------------------------------------------------------------
+ The method converged to     0.008024 after  5 iterations.
+
