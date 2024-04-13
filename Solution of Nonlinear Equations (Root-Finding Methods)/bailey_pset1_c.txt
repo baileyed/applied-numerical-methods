@@ -1,0 +1,8 @@
+
+ OUTPUT FROM bailey_pset1_c.m 
+
+ Solving a nonlinear equation using Secant Method 
+ with initial guesses x_1 = 666.000000 and x_0 =  6.000000 
+
+ Iteration                     x                        f(x)
+------------------------------------------------------------------
