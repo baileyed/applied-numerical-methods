@@ -1,0 +1,12 @@
+
+ OUTPUT FROM bailey_pset6_problem1_a_test.m 
+
+  Solving 2 Nonlinear Equations Using Generalized Netwon Method (Numerical) 
+     Initial Guesses: x1 = +4.00000e-01 and x2 = +3.00000e+00 
+
+   Iter.  x1    x2    check1------------------------------------------------------------------
+     1   -4.30541e-01   +1.75149e+00   +7.12824e-01
+     2   -2.45470e-01   +7.33166e-01   +1.38895e+00
+     3   -2.61387e-01   +6.18901e-01   +1.84626e-01
+     4   -2.60601e-01   +6.22525e-01   +5.82211e-03
+     5   -2.60599e-01   +6.22531e-01   +9.02618e-06
